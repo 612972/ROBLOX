@@ -5,7 +5,7 @@ end
 local DecayHax = getgenv().DecayHax
 
 -- // Dependencies
-local Signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/Signal/main/Signal.lua"))()
+local Signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/Signal/refs/heads/main/Module.lua"))()
 
 -- // Services
 local Workspace = game:GetService("Workspace")
