@@ -6,7 +6,7 @@
 ]]
 
 -- // Dependencies
-local DecayHax = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Games/Decaying%20Winter/GetRemoteKey.lua"))()
+local DecayHax = loadstring(game:HttpGet("https://raw.githubusercontent.com/612972/ROBLOX/refs/heads/master/Games/Decaying%20Winter/GetRemoteKey.lua"))()
 
 -- // Services
 local Players = game:GetService("Players")
